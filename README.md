@@ -84,7 +84,7 @@ function calculate(){
     font-size: 5rem;
     text-align: left;
     border: none;
-    background-color: hsl(0%, 0%, 25%);
+    background-color: hsl(0, 0%, 30%);
     color: white;
 
 }
